@@ -10,7 +10,7 @@ public class Sistema {
 	
 	        Employee employee = new Employee("Saul Santos", company);
 
-	        Vehicle vehicle = new Vehicle("ABC-123");
+	        Vehicle vehicle = new Vehicle("POO-123");
 
 	        employee.addVehicle(vehicle);
 
